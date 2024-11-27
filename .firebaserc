@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "golang-firebase-blog"
+  }
+}
