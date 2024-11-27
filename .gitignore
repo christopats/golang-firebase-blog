@@ -1,1 +1,7 @@
 apphosting.local.yaml
+
+serviceAccountKey.json
+*serviceAccountKey*.json
+
+.firebase/
+firebase-debug.log
